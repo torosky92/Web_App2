@@ -1,0 +1,29 @@
+{
+    "Usuarios": [
+        {
+            "user":"David Toro",
+            "password": "234567"
+        },
+        {
+            "user":"Victor Camargo",
+            "password": "123456"
+        },
+        {
+            "user":"Mateo Maya",
+            "password": "113579"
+        },
+        {
+            "user":"Manuela Quiroz",
+            "password": "246824"
+        },
+        {
+            "user":"Felipe Rodriguez",
+            "password": "gracias"
+        },
+        {
+            "user":"Juan Suarez",
+            "password": "trabajador"
+        }
+    ]
+    
+}
